@@ -1,0 +1,682 @@
+{
+  "CONFIDENCE-METRICS.md": {
+    "bytes": 2837,
+    "sha256": "de5014d82ad5d567d8e6ac9f31e60bb7030d5838ea7756cb9b5f987c2fb3a2ce"
+  },
+  "METHODS.md": {
+    "bytes": 8868,
+    "sha256": "2d69567b1eebe783e1b4214786632880b93c3fc929b1d26404d9b1c10ac4701f"
+  },
+  "README.md": {
+    "bytes": 6668,
+    "sha256": "833dc9a5ca97353e99ad39975e40d43f354f928a7a073fdb999715ddfd121d22"
+  },
+  "SUMMARY.md": {
+    "bytes": 11418,
+    "sha256": "b44daa43731b48e4168dbb42acbb3aacb3f306f4f2aad898c603e396c9623636"
+  },
+  "comparators.fasta.json": {
+    "bytes": 259,
+    "sha256": "9fae927100d61964d678ea8fef7d288bb22a3c5a2b6a4c9f4666036a70542293"
+  },
+  "data/DAG-PMHC-01-chemistry.json": {
+    "bytes": 822089,
+    "sha256": "8e71ad1a289e41a2c34cdee00a8df3af29072afc72e9a0a46f6f5214c1491f8a"
+  },
+  "data/DAG-PMHC-01-cofold.json": {
+    "bytes": 177836,
+    "sha256": "820404ff66cad7f3b0814713b8997a8f509a4cd121083af3e5480f09c41d7a1a"
+  },
+  "data/DAG-PMHC-01-parent-chemistry.json": {
+    "bytes": 822582,
+    "sha256": "d6ac4a65db4020c69939e75e2e6508c55278debca5cf4991082680094edc29a4"
+  },
+  "data/DAG-PMHC-01-parent-cofold.json": {
+    "bytes": 178202,
+    "sha256": "00c5a120f43369813df952851d95cc9b47e4079b488510774a6e07b6f4eacb34"
+  },
+  "data/DAG-PMHC-01-parent-stability.json": {
+    "bytes": 64499,
+    "sha256": "bdc20b10254238f485ac11a0289cedca74b76109e6864b3fc78ad4fefcf8ba23"
+  },
+  "data/DAG-PMHC-01-pose-comparisons.json": {
+    "bytes": 29023,
+    "sha256": "f7ba736c11efd04fa08f40c6432b5dff5adc96742766cb33ec2e13b1d2dbee49"
+  },
+  "data/DAG-PMHC-01-stability.json": {
+    "bytes": 64345,
+    "sha256": "b07432cb3c15b8f746726763890bb020f493ea82cce61505cf6f72b7bc9168b2"
+  },
+  "data/DAG-PMHC-02-chemistry.json": {
+    "bytes": 759436,
+    "sha256": "fa19bd28c9b52094f5305417ed7380e08e27d72e445a6ae3e44aae0d914c707d"
+  },
+  "data/DAG-PMHC-02-cofold.json": {
+    "bytes": 177749,
+    "sha256": "05b0ae020089cb3fa4793f74a7eb7b853081cbb10b895bd5aed27d085e83f7e7"
+  },
+  "data/DAG-PMHC-02-parent-chemistry.json": {
+    "bytes": 759507,
+    "sha256": "fa368af8afb3851f668c527e94d858fc407dba2343f7099a265ceff77ad6d733"
+  },
+  "data/DAG-PMHC-02-parent-cofold.json": {
+    "bytes": 177969,
+    "sha256": "e38932879125561b91686eaecf057a99827f4bacdcc9d2faaa529573de33e304"
+  },
+  "data/DAG-PMHC-02-parent-stability.json": {
+    "bytes": 44856,
+    "sha256": "da0a0dc4fd9a5be90f28b6c4c502d176c61d4b180adab656f8463af7f2965a8f"
+  },
+  "data/DAG-PMHC-02-stability.json": {
+    "bytes": 44815,
+    "sha256": "c1d8d872ec39d3256a7cfa0c5e87c542380755327104758e045983bad1310a54"
+  },
+  "data/DAG-PMHC-03-chemistry.json": {
+    "bytes": 761551,
+    "sha256": "43cbb9542e49e10e77438c3004821ec44dba8ed777d9b5da0c4d92cbff64f846"
+  },
+  "data/DAG-PMHC-03-cofold.json": {
+    "bytes": 178049,
+    "sha256": "11e56533aa9f314d580da7a6ded41338442bf302644623171f70a235004d48b4"
+  },
+  "data/DAG-PMHC-03-coverage.json": {
+    "bytes": 503,
+    "sha256": "068faa475e704319906ea32baa23b9d43c98ffa160d6cd392f42b8d48d94b3cf"
+  },
+  "data/DAG-PMHC-03-stability.json": {
+    "bytes": 45089,
+    "sha256": "c8794d92902a0ef8eef65d3becafc9b95ba0be35f0947ecb5514aa43d8800b0d"
+  },
+  "data/confidence-summary.json": {
+    "bytes": 9235,
+    "sha256": "c70892281b65a8930ccd0cab5dec6525166962e8c7dcdfd4ba17116efa5a5997"
+  },
+  "design/DAG-PMHC-01-conditioning-template.pdb": {
+    "bytes": 332180,
+    "sha256": "22b7dd5cac8142f7b7381e50e520bf6c94dd32b9e06450c28b0981fec8934f91"
+  },
+  "design/DAG-PMHC-01-sequence-design.json": {
+    "bytes": 23778,
+    "sha256": "5e041534e2506f896eb60dbcd56c3a100d7fb76c24a2b53d6cbc955ff635dc88"
+  },
+  "design/DAG-PMHC-02-conditioning-template.pdb": {
+    "bytes": 304721,
+    "sha256": "c3b3435016c07497181a427c43826257728453863cfcff966dca4290f5f9852d"
+  },
+  "design/DAG-PMHC-02-sequence-design.json": {
+    "bytes": 24725,
+    "sha256": "bda044e111c5dd0c3435005ba77850ab48898e17a2fa49a938d33499a5a828d2"
+  },
+  "design/DAG-PMHC-03-generation.json": {
+    "bytes": 6185,
+    "sha256": "b863114f21a099034904791572c465c8ce4a3902a3e85d03c7ea3cbe7900e708"
+  },
+  "design/DAG-PMHC-03-mutant-target.pdb": {
+    "bytes": 257660,
+    "sha256": "0ea81972be76c39aa66c0d38358f77af03a1f4d02e6d31a93a454a9dcb0e1aaf"
+  },
+  "design/DAG-PMHC-03-peptide_free-target.pdb": {
+    "bytes": 252638,
+    "sha256": "a8e5f7a344a88950d3216898e039141b03062f0c109640c16701d16122085f55"
+  },
+  "design/DAG-PMHC-03-wt-target.pdb": {
+    "bytes": 257336,
+    "sha256": "a1ce696f7bf76c8a365642c14e7ae4d7da94223ef696ae6d6d049fe2b84e4247"
+  },
+  "designs.fasta": {
+    "bytes": 322,
+    "sha256": "4911d0e6819fb7dc222b99bbf1da4980fc4bb329bf9db2a802ca262c52226041"
+  },
+  "identities.json": {
+    "bytes": 1773,
+    "sha256": "4cd8ce42db7960633cb95976fcb1628750552632e835de6eff95e2191255d3b9"
+  },
+  "structure-index.csv": {
+    "bytes": 24231,
+    "sha256": "474f19658086f1d090cbddb6c7f35027a382613058e261fbaa9562c139b9dec1"
+  },
+  "structures/DAG-PMHC-01/cofold/mutant_bound-seed2026110831.pdb": {
+    "bytes": 331613,
+    "sha256": "8b46e0d82649095337fe527fc14a2819e2a3a8c83fbdd4e7ac28fd35236995b9"
+  },
+  "structures/DAG-PMHC-01/cofold/mutant_bound-seed2026110832.pdb": {
+    "bytes": 331613,
+    "sha256": "8f5a802a089c765f03d17b1576250876897a65b613ea44bc700bc7667b8e6dcf"
+  },
+  "structures/DAG-PMHC-01/cofold/mutant_bound-seed2026110833.pdb": {
+    "bytes": 331613,
+    "sha256": "63d6fadee175638ffc663b6398ae1196485c87c8f376e2edfa2db5a55190e6b6"
+  },
+  "structures/DAG-PMHC-01/cofold/mutant_bound-seed2026110834.pdb": {
+    "bytes": 331613,
+    "sha256": "fff59862deeeb936199f375b0065db51b7b16cc1b57fe78227b684d85e92ea58"
+  },
+  "structures/DAG-PMHC-01/cofold/peptide_removed-seed2026110831.pdb": {
+    "bytes": 326510,
+    "sha256": "b5f404e1d769395cc10c518750a8c9d835df020162fe4e8ae9162c7673cf4314"
+  },
+  "structures/DAG-PMHC-01/cofold/peptide_removed-seed2026110832.pdb": {
+    "bytes": 326510,
+    "sha256": "d27c263e9f7e1a41e9e7ede59d09db7834d61634c2d470ea05a3153e94231dfe"
+  },
+  "structures/DAG-PMHC-01/cofold/peptide_removed-seed2026110833.pdb": {
+    "bytes": 326510,
+    "sha256": "8effee0b348a5003a8a88e0ac7a7d5481cab8f921adb53b14f6d8416bc258df3"
+  },
+  "structures/DAG-PMHC-01/cofold/peptide_removed-seed2026110834.pdb": {
+    "bytes": 326510,
+    "sha256": "543a124dc38dadfa868bf09fcffff14c9d21485ab1a4c7fef4579e2db26b7b88"
+  },
+  "structures/DAG-PMHC-01/cofold/wildtype_bound-seed2026110831.pdb": {
+    "bytes": 331289,
+    "sha256": "7cc978b15329bd3b7419fe29243012f245fa3717f39f0e4393ad0cb3efda43c4"
+  },
+  "structures/DAG-PMHC-01/cofold/wildtype_bound-seed2026110832.pdb": {
+    "bytes": 331289,
+    "sha256": "6c7d38cb0830ff837e3de1f343cf2abaf21a8e9cd9ed289a7ee189a1d9677a07"
+  },
+  "structures/DAG-PMHC-01/cofold/wildtype_bound-seed2026110833.pdb": {
+    "bytes": 331289,
+    "sha256": "526a616eb686592cb713be949548de3929f307807b383dcda7f4aa0f157267d8"
+  },
+  "structures/DAG-PMHC-01/cofold/wildtype_bound-seed2026110834.pdb": {
+    "bytes": 331289,
+    "sha256": "b92d2b797db83e3d361dd62fca7b344a8a890e93ef7f5cadfef4baf1c2a0696b"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/mutant_bound-seed2026110831.pdb": {
+    "bytes": 332180,
+    "sha256": "404deeed11734bfa2ef472f8f79e6fb36bfe6d21acf3080c2a017b8945d67a07"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/mutant_bound-seed2026110832.pdb": {
+    "bytes": 332180,
+    "sha256": "6ca686f0ab2ca970efb3ee538befc412ee6d36033f2ace48c6e4cebf685bb375"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/mutant_bound-seed2026110833.pdb": {
+    "bytes": 332180,
+    "sha256": "722b922ed69ea039d72860972712fe82c38ae3b03593af2d5ab51c83c4940f77"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/mutant_bound-seed2026110834.pdb": {
+    "bytes": 332180,
+    "sha256": "401a7f5b9ce2c3343da0388f3aeba81107320b54c709da738644392a2390938b"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/peptide_removed-seed2026110831.pdb": {
+    "bytes": 327077,
+    "sha256": "d83fe58b1c32c2f77f39dc423a1660c24de1888ae0b65c07ab1be58587f808d5"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/peptide_removed-seed2026110832.pdb": {
+    "bytes": 327077,
+    "sha256": "0180d0be1364e8185dde878b0ddfae7f400e1a172be0fb1164c48d0df9fe0d74"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/peptide_removed-seed2026110833.pdb": {
+    "bytes": 327077,
+    "sha256": "1502a654f151098a750aac88ab8528fed6a1fb70b830eda9063a9def86ca2e44"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/peptide_removed-seed2026110834.pdb": {
+    "bytes": 327077,
+    "sha256": "ba55556e8a4b304b9dc1525508719b84dd27b73b954fec4fee3548a3215ac6b4"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/wildtype_bound-seed2026110831.pdb": {
+    "bytes": 331856,
+    "sha256": "32859c740d2f2e33090f061d005bf2ab67729372a01785cb8be58e0d98bc035f"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/wildtype_bound-seed2026110832.pdb": {
+    "bytes": 331856,
+    "sha256": "cdc9fb0b082e022512ce178e4289452c5efe6796eec1c5584a7d9ed5eb627d6f"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/wildtype_bound-seed2026110833.pdb": {
+    "bytes": 331856,
+    "sha256": "8cc57980b44124c8df6f5238fad9476efa105208afdbe98a288162b838a4c5cb"
+  },
+  "structures/DAG-PMHC-01-parent/cofold/wildtype_bound-seed2026110834.pdb": {
+    "bytes": 331856,
+    "sha256": "af730cdb50e7e0bc297e693c2fa17e3f1d6a67eb6155b14ab9ce341829f349e5"
+  },
+  "structures/DAG-PMHC-02/cofold/mutant_bound-seed2026110821.pdb": {
+    "bytes": 305207,
+    "sha256": "19b43a7b0ffdb9680c89eae95cac5a75065e83a4214b5976b2d7695a3478f3e5"
+  },
+  "structures/DAG-PMHC-02/cofold/mutant_bound-seed2026110822.pdb": {
+    "bytes": 305207,
+    "sha256": "f6b472806998d54d634196d0ed48eb854a9e00f326a40735398eb10fd7db01c5"
+  },
+  "structures/DAG-PMHC-02/cofold/mutant_bound-seed2026110823.pdb": {
+    "bytes": 305207,
+    "sha256": "07dcfb959fe6be61b27ae421555e7c74cb8a0e97f7b6ccf2b26113bc3fbfdd39"
+  },
+  "structures/DAG-PMHC-02/cofold/mutant_bound-seed2026110824.pdb": {
+    "bytes": 305207,
+    "sha256": "1d08ff54c7cde50854f45ab83e2daef9dacb52e90ba7d4a623f358aa57fc5fa3"
+  },
+  "structures/DAG-PMHC-02/cofold/peptide_removed-seed2026110821.pdb": {
+    "bytes": 300104,
+    "sha256": "8972f7bc996119bc62229808215b3c8b36654d072d2b3aaa8a347d14519face4"
+  },
+  "structures/DAG-PMHC-02/cofold/peptide_removed-seed2026110822.pdb": {
+    "bytes": 300104,
+    "sha256": "14ac372d3a3485368906c49adfa8e3d08f8ff8a1d0e5bf029f21a74488f5a89c"
+  },
+  "structures/DAG-PMHC-02/cofold/peptide_removed-seed2026110823.pdb": {
+    "bytes": 300104,
+    "sha256": "3f14cc03b2d3cbfa7e0cdd4dcdac12d0d87d91c2ab30aaaaa7baef3bcaa67226"
+  },
+  "structures/DAG-PMHC-02/cofold/peptide_removed-seed2026110824.pdb": {
+    "bytes": 300104,
+    "sha256": "8198484a57d5c8972bebce894a69f065bac93ffd6bb50b403e5eb24fb4a8b58e"
+  },
+  "structures/DAG-PMHC-02/cofold/wildtype_bound-seed2026110821.pdb": {
+    "bytes": 304883,
+    "sha256": "d7c4d04a47d99e43629c63307656c3847fc12185d7282c65d91257faaf6bef4e"
+  },
+  "structures/DAG-PMHC-02/cofold/wildtype_bound-seed2026110822.pdb": {
+    "bytes": 304883,
+    "sha256": "c0bf4e54915722354ebdba625c01a431ec1312b8c23c043caecbb5b509412962"
+  },
+  "structures/DAG-PMHC-02/cofold/wildtype_bound-seed2026110823.pdb": {
+    "bytes": 304883,
+    "sha256": "0e6dd426699a15db7b22fff7d6221fe4bed580847f03fe4d0c2b355f9dc36539"
+  },
+  "structures/DAG-PMHC-02/cofold/wildtype_bound-seed2026110824.pdb": {
+    "bytes": 304883,
+    "sha256": "ca6600320cb5762c42ba7772a0ae3563ee02318cd919d739b48e979b460e227b"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110821-prepared.pdb": {
+    "bytes": 594956,
+    "sha256": "8d90e3c8bc15755d0c7279606d5b1b0266fedf4c9559a5b4baa31c7429a14cb0"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110821-released.pdb": {
+    "bytes": 594956,
+    "sha256": "0fc842f020cdd7a89d55f3aa8c1ec2a69dd7b261c18c47c903f43dc7dbeff7c3"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110821-restrained.pdb": {
+    "bytes": 594956,
+    "sha256": "5005488ef264c38e5f43b79ec7a7e7932795ede0cc1380e38c80b310f169054a"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110822-prepared.pdb": {
+    "bytes": 594956,
+    "sha256": "473ad5bd190581865f86a212c785d90de246600ba9681ec2e7e5365b29458b8d"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110822-released.pdb": {
+    "bytes": 594956,
+    "sha256": "33335cd5ecb26027c783193ca36005c96a404e461023bf3065e84fd78f802eb9"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110822-restrained.pdb": {
+    "bytes": 594956,
+    "sha256": "f0f3ec38d7c237f2bf6feffc30955c4a683f7f47a42239d01bdc58208743a758"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110823-prepared.pdb": {
+    "bytes": 594956,
+    "sha256": "63346923835beb5b5ed58869355c52eff2487c35e86e4ef6cd6612937dd972d7"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110823-released.pdb": {
+    "bytes": 594956,
+    "sha256": "e8d774b9950ad4f3a873ee13a8190daa60723164d47697be04b9a2ad7a63e24a"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110823-restrained.pdb": {
+    "bytes": 594956,
+    "sha256": "2fd3ab4935fc858fc542f736497e2a6edb1bcd4a9bf8e02826d66fa8e4d7ec69"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110824-prepared.pdb": {
+    "bytes": 594956,
+    "sha256": "831fe95e99a9606007c66d5dc263c1ccbea8fe61abd45058fc0ba963a4359c56"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110824-released.pdb": {
+    "bytes": 594956,
+    "sha256": "baf91fdbe9c041f87702539567e7cb219100fed9ccc2ff932a595abfa83273c1"
+  },
+  "structures/DAG-PMHC-02/relaxation/mutant_bound-seed2026110824-restrained.pdb": {
+    "bytes": 594956,
+    "sha256": "5bb0a6cd732d8574ca5b96043dc36d38f070f9cd0ce763147fa6a5f1ff0b98ff"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110821-prepared.pdb": {
+    "bytes": 594551,
+    "sha256": "33c07e77ff8a1e09d744145f7a5ca1bfbaa3e5b14cac9aabbe5992a4d99c4ebc"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110821-released.pdb": {
+    "bytes": 594551,
+    "sha256": "78eda5b4e19cf2cf6be98f91341a3f903df1b53342e72c5706a191395db8937d"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110821-restrained.pdb": {
+    "bytes": 594551,
+    "sha256": "55cada9520484c01b8fb361b4b9448df956e69514859d7f8199e5549dc193518"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110822-prepared.pdb": {
+    "bytes": 594551,
+    "sha256": "9124bb51f7c1eda7a4504ba5e9a4d0af2d1e7bb5af8a378e4dfcda36520963d1"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110822-released.pdb": {
+    "bytes": 594551,
+    "sha256": "9b63877ea27faea6b00f0886ade62949e0ba9891d833e9b532ce39fa218c9056"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110822-restrained.pdb": {
+    "bytes": 594551,
+    "sha256": "d4898a2f52e6108260f892a17af7ec8314134fbdd96e364a4fa63c827c778c13"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110823-prepared.pdb": {
+    "bytes": 594551,
+    "sha256": "6e56ccd864057b762bed2ce433dce6c541ab80b7542a4f7fce4c4c7c4fa3c102"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110823-released.pdb": {
+    "bytes": 594551,
+    "sha256": "cdba8f1479f3ca6a81b8deb249d46d4084d41cbdeecfb6e230adccb3a04832b0"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110823-restrained.pdb": {
+    "bytes": 594551,
+    "sha256": "c04dd6b00cbdc60a3f42e04b7961d745d7c275ed3c7361a4b4e080bbb1e63a67"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110824-prepared.pdb": {
+    "bytes": 594551,
+    "sha256": "c40e76cfcddcd70a9f14563215dcf472a2f4677f30cc1a736d0cf105ea40fffb"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110824-released.pdb": {
+    "bytes": 594551,
+    "sha256": "dc7a5c5e97dad1b483d1d3cfbdfe1baa5d5c6e0d269cf553cf0c83a8a134cb1b"
+  },
+  "structures/DAG-PMHC-02/relaxation/wildtype_bound-seed2026110824-restrained.pdb": {
+    "bytes": 594551,
+    "sha256": "9a6930633c8cc70cdcbdbb5df59749e20214fe5186a4d7fffb08ee5573a97932"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/mutant_bound-seed2026110821.pdb": {
+    "bytes": 304721,
+    "sha256": "4bae8c0469a665eba954e05d8f119600766208df642bedc349ee3e047d867d78"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/mutant_bound-seed2026110822.pdb": {
+    "bytes": 304721,
+    "sha256": "f369fb7d32d04d13476c0892579938a5bb4d431041e951af3aa5f10604e96a04"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/mutant_bound-seed2026110823.pdb": {
+    "bytes": 304721,
+    "sha256": "b0793816dbdb25f92a5fb07e79e1d088ecf9f54363a69ba2884e2bc35aa12ae1"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/mutant_bound-seed2026110824.pdb": {
+    "bytes": 304721,
+    "sha256": "6ddd663e60ff90da4422ff84e82d521e9ad9f99b6bfd32ae364377dbe58cf065"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/peptide_removed-seed2026110821.pdb": {
+    "bytes": 299618,
+    "sha256": "0b154bf2e661816dd7fbd3648eb904c9fcd8154ade2141f1d80ee60739ed103e"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/peptide_removed-seed2026110822.pdb": {
+    "bytes": 299618,
+    "sha256": "776a8b464d6eff3849d5de74a0a4c36da4fa80904e30543ab10f84e71f6b37a8"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/peptide_removed-seed2026110823.pdb": {
+    "bytes": 299618,
+    "sha256": "f87635c6fe3646356cba1a49d6f6c34eee15f286b23da895978e3d13d537df24"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/peptide_removed-seed2026110824.pdb": {
+    "bytes": 299618,
+    "sha256": "15c38aaf9ac3989850c1143cb99b71f67d21fd20bf672dbbfdb546c2fe6aba41"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/wildtype_bound-seed2026110821.pdb": {
+    "bytes": 304397,
+    "sha256": "8e42e540640af1c806049f38e72942a66c07a1868b8af186da531a91092fdf4a"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/wildtype_bound-seed2026110822.pdb": {
+    "bytes": 304397,
+    "sha256": "d18a0d33d694e024c532022fec7e4132903916a81d8868549009297550e4ee10"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/wildtype_bound-seed2026110823.pdb": {
+    "bytes": 304397,
+    "sha256": "e5497e24f5c109a6c458aa882d365503313ad3e618a994055ea260ffc8a7d310"
+  },
+  "structures/DAG-PMHC-02-parent/cofold/wildtype_bound-seed2026110824.pdb": {
+    "bytes": 304397,
+    "sha256": "2ddc96e96f9d062f19f19394389724ba8c837dc3a34eb55e94066ff942b5000e"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110821-prepared.pdb": {
+    "bytes": 594227,
+    "sha256": "23689ded214fb566b6b040436da269c361a4101d409c1966d34b6a9c36f27e53"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110821-released.pdb": {
+    "bytes": 594227,
+    "sha256": "9ed6d670031c10783ee37ee1d9fcf8366354979f7b73d240b57825b8c24849bc"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110821-restrained.pdb": {
+    "bytes": 594227,
+    "sha256": "ba4c10b5ea53b8d97828a8938f2ccd9f60231507797f4c7285bd41bde533ff99"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110822-prepared.pdb": {
+    "bytes": 594227,
+    "sha256": "9a6d6f52701e5ffebf06da46f6584f08af08443ce5a78edbf852d1e19c8660cc"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110822-released.pdb": {
+    "bytes": 594227,
+    "sha256": "5ee953a0c4a717dac4711d43d0bafa275c9e29840ed90bc7b296f8cdf2e543cb"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110822-restrained.pdb": {
+    "bytes": 594227,
+    "sha256": "0c9452794a055ed0fdffbbcfd7bdd8edabd660b3f9d8c3c7278d7ef966fa9b6f"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110823-prepared.pdb": {
+    "bytes": 594227,
+    "sha256": "dbba9cfeba1b81264e30511e74e1d862cd70f919d8699b36ddb480384af522d2"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110823-released.pdb": {
+    "bytes": 594227,
+    "sha256": "bae9d5eabe5c89b65f3b2215cf09e81ec69d1c422aeed8fde3da9b0901ea9feb"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110823-restrained.pdb": {
+    "bytes": 594227,
+    "sha256": "88501d9a9ba0b884d687dcf88d514de9ded369da270af6aeb6650435ae374985"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110824-prepared.pdb": {
+    "bytes": 594227,
+    "sha256": "7aa9d2adbabffe7e03a4e8db1665aff24e1bc4a86f09bce124612bec41bb50e4"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110824-released.pdb": {
+    "bytes": 594227,
+    "sha256": "a6ddf372425149ba0198a39a77e75c62af1e7cbc812a36bd9d40fea75d483493"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/mutant_bound-seed2026110824-restrained.pdb": {
+    "bytes": 594227,
+    "sha256": "21db4a869217c9a322afd15a9da1c71c84ef3dfd63851b9262b879e3321b05ac"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110821-prepared.pdb": {
+    "bytes": 593822,
+    "sha256": "04f477287144e52ed822ec779dc29af6223971fe11277aed30e1284f5c007a4f"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110821-released.pdb": {
+    "bytes": 593822,
+    "sha256": "9cf5359061bf985210190e53e0425e3e890bb6da12ea29da474b317b2c8a9abc"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110821-restrained.pdb": {
+    "bytes": 593822,
+    "sha256": "c27be88962bf9023bebb2906d55a56d82a1f90610f97bb4e6274847746d03dfd"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110822-prepared.pdb": {
+    "bytes": 593822,
+    "sha256": "6cfc66c5f2ada5171dab645be7d9dc1b9d05952f062783b5faf669a4cf99451b"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110822-released.pdb": {
+    "bytes": 593822,
+    "sha256": "7376cd7c74f31f5b4caad3027bfb11faf849740eaecbb27ba743ff23a5665545"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110822-restrained.pdb": {
+    "bytes": 593822,
+    "sha256": "ec42a43dc8b5ee31677bff13bcda9e484ae3f71cd21f1d022d23d5b3065553b4"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110823-prepared.pdb": {
+    "bytes": 593822,
+    "sha256": "58254350275f7ed5bea4af3a7ff4c4a4beb03d4effe0b4fccb6075d1b7ba8ba6"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110823-released.pdb": {
+    "bytes": 593822,
+    "sha256": "5ce82ebf3b881f9e087cfdedec21a07bd726671b60912ad98a37a259491d6e07"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110823-restrained.pdb": {
+    "bytes": 593822,
+    "sha256": "7bc23db1e16c9f9b968e21560cb15cf91af7565f57b09da2395064f9b233b99d"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110824-prepared.pdb": {
+    "bytes": 593822,
+    "sha256": "daac228d72c8736846a8440c982a41f423d2436bbb4c7913ee235f8e2932c071"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110824-released.pdb": {
+    "bytes": 593822,
+    "sha256": "1d7f672cabb4d651b0e777fe0ddd43be449bd27474178c5d64e3625e0b3cc2c6"
+  },
+  "structures/DAG-PMHC-02-parent/relaxation/wildtype_bound-seed2026110824-restrained.pdb": {
+    "bytes": 593822,
+    "sha256": "c8211475b48ec95c394397ba954371441e22a628cb18bdb653e2dcecc9b02b94"
+  },
+  "structures/DAG-PMHC-03/cofold/mutant_bound-seed2026110821.pdb": {
+    "bytes": 309176,
+    "sha256": "fe4ef1301a373f4d6a301849e6e66c97ab986036558fb270388f2f2604c366f1"
+  },
+  "structures/DAG-PMHC-03/cofold/mutant_bound-seed2026110822.pdb": {
+    "bytes": 309176,
+    "sha256": "52e7e81022deed18d6e72abe8d4c6ddfce402714088b2664fe7914c2a61a19d9"
+  },
+  "structures/DAG-PMHC-03/cofold/mutant_bound-seed2026110823.pdb": {
+    "bytes": 309176,
+    "sha256": "f11ebe237d2b2fad94334ae66ee09876c07198f94ebd2328ac8d44be7a25e6f1"
+  },
+  "structures/DAG-PMHC-03/cofold/mutant_bound-seed2026110824.pdb": {
+    "bytes": 309176,
+    "sha256": "6f375dbe65fe9086af06cd00ccf42e86e609a0f8fcee11017ad34117c0f4cea4"
+  },
+  "structures/DAG-PMHC-03/cofold/peptide_removed-seed2026110821.pdb": {
+    "bytes": 304073,
+    "sha256": "8564b48bc3dcce38447f296d1a937798d0c2a2f614d8fd16dc7695e6fce2afb6"
+  },
+  "structures/DAG-PMHC-03/cofold/peptide_removed-seed2026110822.pdb": {
+    "bytes": 304073,
+    "sha256": "ab0672ddf33ff910612653f86ad58b8571e678d9d92a2c3633a6efbdc8dcabd0"
+  },
+  "structures/DAG-PMHC-03/cofold/peptide_removed-seed2026110823.pdb": {
+    "bytes": 304073,
+    "sha256": "80196d6d14be0a72b30f62cfb87530ac0d430e70794049ffd0ce52606f5ad829"
+  },
+  "structures/DAG-PMHC-03/cofold/peptide_removed-seed2026110824.pdb": {
+    "bytes": 304073,
+    "sha256": "22ebe84d0ce0dfd21dc351a9ebe08f54c3c593c9663157cf964a160ec6fd9f11"
+  },
+  "structures/DAG-PMHC-03/cofold/wildtype_bound-seed2026110821.pdb": {
+    "bytes": 308852,
+    "sha256": "2a0d5c652c071a07bff8d4c647fdd35236c554110d0187304265d1a6ecb25c24"
+  },
+  "structures/DAG-PMHC-03/cofold/wildtype_bound-seed2026110822.pdb": {
+    "bytes": 308852,
+    "sha256": "2e2b712a3b31d7d8bdb14ed0267f642a2d03858d7a4ba99fb14e065dba2271d6"
+  },
+  "structures/DAG-PMHC-03/cofold/wildtype_bound-seed2026110823.pdb": {
+    "bytes": 308852,
+    "sha256": "2b039d56cdbce30905a430704c49c253b50e0f539ab8b240a5ae9498cbe5d5b3"
+  },
+  "structures/DAG-PMHC-03/cofold/wildtype_bound-seed2026110824.pdb": {
+    "bytes": 308852,
+    "sha256": "426e3401ac1c3fb7503592487af11a050a48a90102d4e28b0fa5ffd30a932c18"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110821-prepared.pdb": {
+    "bytes": 602489,
+    "sha256": "23bb330ffd427170a9bf737a67d3fade670d0d520a2257ef69add6732f891e0b"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110821-released.pdb": {
+    "bytes": 602489,
+    "sha256": "1f0ba91ab5ea1cfc693669e3cb7b7228c7bd30272ddcd7fab800c29d599756c0"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110821-restrained.pdb": {
+    "bytes": 602489,
+    "sha256": "c404f17d1e80da7938feeb67bd908bd10ba65d646e583a8b1bd3fd87fa5e04cd"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110822-prepared.pdb": {
+    "bytes": 602489,
+    "sha256": "c92ed30af2fab2528d2d4bd7977cbc20e8b14f8c97d29d701e2386e1b868da83"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110822-released.pdb": {
+    "bytes": 602489,
+    "sha256": "bb41585e4c7ed1163f4694afb95e56cc1df20d14bb66910b2293d27f1fe0f2f8"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110822-restrained.pdb": {
+    "bytes": 602489,
+    "sha256": "595591b41a321f754dfb247ab2254c3ff9259e80eb110014d00158a51941621c"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110823-prepared.pdb": {
+    "bytes": 602489,
+    "sha256": "973e6515d8d3f309ebab34e603271e731ac2b6fa2805d37b77200902c4c50c89"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110823-released.pdb": {
+    "bytes": 602489,
+    "sha256": "68237b6bb4a2e43e671319b067c5b62e083838f4e13389b126d74d91dfa31954"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110823-restrained.pdb": {
+    "bytes": 602489,
+    "sha256": "2c8e5811cf9b62d0767530368e7db272991390c171cdcf75bdb3c123c0221c04"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110824-prepared.pdb": {
+    "bytes": 602489,
+    "sha256": "c40565d9ee9f86aad5046269891b64116fb88dc61eca8d1ac1f2677b7f0d9210"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110824-released.pdb": {
+    "bytes": 602489,
+    "sha256": "97affaad15ee1a3dc2ebe801355545a397dc517c35a92848473ef25f397297e6"
+  },
+  "structures/DAG-PMHC-03/relaxation/mutant_bound-seed2026110824-restrained.pdb": {
+    "bytes": 602489,
+    "sha256": "d8f47784e2e45ea786b697680baebd6e4d6f5552e66aa7a3ef8b50b512f6aec3"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110821-prepared.pdb": {
+    "bytes": 602084,
+    "sha256": "9a92e2c9796e95dc8046c5c3e17955ae1dc7b25bb15cbc48d2c095b9f54a5b54"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110821-released.pdb": {
+    "bytes": 602084,
+    "sha256": "8bf60cae90c457d1ee74b2087f895332f0dc40d21b48aae072ed6609598992ad"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110821-restrained.pdb": {
+    "bytes": 602084,
+    "sha256": "8e56cd09a6db573404e0f4fa71e04dca481f24a838c84d9aeb709c233310a867"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110822-prepared.pdb": {
+    "bytes": 602084,
+    "sha256": "fafc7853c47b6d76b99836e4fb82ac19f1c48b55a2b5a6896d39ef5e253045bf"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110822-released.pdb": {
+    "bytes": 602084,
+    "sha256": "3dcd5a7b1e7850c1adf9cb88a723e26388b70c7c92f004eb768303ce371e502c"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110822-restrained.pdb": {
+    "bytes": 602084,
+    "sha256": "ae99896b9884f57134fc71e777f955729c782a1c7da8151239df876fd7b2cf69"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110823-prepared.pdb": {
+    "bytes": 602084,
+    "sha256": "2326391fdd597006555ecd1fa1ab22b81efb122008219cff5fb0f4c77eaf8cb2"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110823-released.pdb": {
+    "bytes": 602084,
+    "sha256": "4ba4162e55456dce7d586b681ce77b97a8c072ce0acc780151259550c79b68a9"
+  },
+  "structures/DAG-PMHC-03/relaxation/wildtype_bound-seed2026110823-restrained.pdb": {
+    "bytes": 602084,
+    "sha256": "5f8a750d7dc1cd626485527654064b17c0b86053b4123ef730166becad79fdcc"
+  },
+  "tables/chemistry.csv": {
+    "bytes": 7929,
+    "sha256": "1e376e8a0115acc6d0163492027a4887bd8ebc67726675f6ea02f9dd7b7a1845"
+  },
+  "tables/confidence-summary.csv": {
+    "bytes": 3506,
+    "sha256": "0a2ecec65ffa48ca35786cf6d74629e2891327b365631b4761c703c768c9de22"
+  },
+  "tables/relaxation-contacts.csv": {
+    "bytes": 412436,
+    "sha256": "f7cf280614ded76f4df167a7bbb0c02f4c6c0fd9f6aae3aa3b1032877c05728e"
+  },
+  "tables/relaxation-named-networks.csv": {
+    "bytes": 908162,
+    "sha256": "843d6f5b32bf5cbccfc1c2368de3e783e33d0ea64cc3ea76eadcd79c0bcacf37"
+  },
+  "tables/relaxation-slots.csv": {
+    "bytes": 2427,
+    "sha256": "4952918af6658796ce993ef4211a4309adc43c55fcdf027667c528ba3ce6f4d0"
+  },
+  "tables/relaxation-stages.csv": {
+    "bytes": 16976,
+    "sha256": "1ce09770135d67a2ef23004e003cc50c92aad964edea834f0545cffc484dea93"
+  },
+  "tables/stability.csv": {
+    "bytes": 3647,
+    "sha256": "8c931253839e9a5de696d973088d09a3739fb43057679bb18db80917a88981f3"
+  }
+}

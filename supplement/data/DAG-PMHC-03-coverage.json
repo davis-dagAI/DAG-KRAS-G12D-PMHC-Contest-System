@@ -1,0 +1,18 @@
+{
+  "logical_cofold_slots": 12,
+  "initial_completed": 11,
+  "initial_lost": 1,
+  "recovered_in_separate_phase": 1,
+  "chemistry_records": 12,
+  "stability_head_records": 12,
+  "relaxation_nominal_slots": 8,
+  "relaxation_completed": 7,
+  "relaxation_unavailable": [
+    {
+      "context": "wildtype_bound",
+      "seed": 2026110824,
+      "reason": "Prediction unavailable when relaxation panel was frozen; later recovered cofold was not substituted or relaxed"
+    }
+  ],
+  "analysis_exclusions": 0
+}

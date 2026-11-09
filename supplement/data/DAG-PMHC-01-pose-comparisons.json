@@ -1,0 +1,694 @@
+[
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.3503607124726902,
+      "D_CA_target_aligned_RMSD_A": 33.15033472538078,
+      "D_centroid_target_aligned_shift_A": 25.28517759381965,
+      "target_CA_RMSD_A": 0.3398831560638135
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.1010524851347516,
+      "D_CA_target_aligned_RMSD_A": 2.6780900864274315,
+      "D_centroid_target_aligned_shift_A": 1.79601821490892,
+      "target_CA_RMSD_A": 0.4346962294306024
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.0610790856561196,
+      "D_CA_target_aligned_RMSD_A": 1.4145045788712414,
+      "D_centroid_target_aligned_shift_A": 0.8186612907970016,
+      "target_CA_RMSD_A": 0.35650922250307576
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.0232876968145608,
+      "D_CA_target_aligned_RMSD_A": 34.317161380750385,
+      "D_centroid_target_aligned_shift_A": 26.394119632568643,
+      "target_CA_RMSD_A": 0.2602218377599496
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.0096112976021259,
+      "D_CA_target_aligned_RMSD_A": 33.29083675716132,
+      "D_centroid_target_aligned_shift_A": 25.38342176084186,
+      "target_CA_RMSD_A": 0.3268601249435266
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.6220381534533985,
+      "D_CA_target_aligned_RMSD_A": 1.8550652557297518,
+      "D_centroid_target_aligned_shift_A": 1.1801543371689343,
+      "target_CA_RMSD_A": 0.375881220008679
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.8289495622329845,
+      "D_CA_target_aligned_RMSD_A": 2.058221639930633,
+      "D_centroid_target_aligned_shift_A": 0.6826334253324635,
+      "target_CA_RMSD_A": 0.3042495003968279
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.5555332832723512,
+      "D_CA_target_aligned_RMSD_A": 2.45462045662541,
+      "D_centroid_target_aligned_shift_A": 2.012986964893123,
+      "target_CA_RMSD_A": 0.40111674495996835
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.6854528925483762,
+      "D_CA_target_aligned_RMSD_A": 2.7179289575070427,
+      "D_centroid_target_aligned_shift_A": 1.8927693365557343,
+      "target_CA_RMSD_A": 0.4006662884178847
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.7066796136073701,
+      "D_CA_target_aligned_RMSD_A": 2.2498812221308793,
+      "D_centroid_target_aligned_shift_A": 1.4823021584608693,
+      "target_CA_RMSD_A": 0.34954320940198635
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.8546272896525773,
+      "D_CA_target_aligned_RMSD_A": 2.05653793913974,
+      "D_centroid_target_aligned_shift_A": 1.266905731070898,
+      "target_CA_RMSD_A": 0.4296161060601482
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.5158197754427576,
+      "D_CA_target_aligned_RMSD_A": 1.0138005596402146,
+      "D_centroid_target_aligned_shift_A": 0.513544399883695,
+      "target_CA_RMSD_A": 0.4992404288354836
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110831",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.002193189825813,
+      "D_CA_target_aligned_RMSD_A": 4.313747087432518,
+      "D_centroid_target_aligned_shift_A": 2.1728101012141985,
+      "target_CA_RMSD_A": 0.3846413485092458
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 2.090677536084438,
+      "D_CA_target_aligned_RMSD_A": 30.545190693809495,
+      "D_centroid_target_aligned_shift_A": 22.71701876780674,
+      "target_CA_RMSD_A": 0.4260031506555354
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.6719694187930358,
+      "D_CA_target_aligned_RMSD_A": 6.588963103047754,
+      "D_centroid_target_aligned_shift_A": 4.3251814901976005,
+      "target_CA_RMSD_A": 0.22876234222725597
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110834",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.8314229949475105,
+      "D_CA_target_aligned_RMSD_A": 5.9204172036101435,
+      "D_centroid_target_aligned_shift_A": 3.754293446675473,
+      "target_CA_RMSD_A": 0.2555866226737181
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.715080610223458,
+      "D_CA_target_aligned_RMSD_A": 12.057312023481526,
+      "D_centroid_target_aligned_shift_A": 10.538658139619216,
+      "target_CA_RMSD_A": 0.4933354863282862
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.7569411538082645,
+      "D_CA_target_aligned_RMSD_A": 5.018507886363305,
+      "D_centroid_target_aligned_shift_A": 3.478738799242623,
+      "target_CA_RMSD_A": 0.4170520462799412
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.9749113180532086,
+      "D_CA_target_aligned_RMSD_A": 8.314458402281561,
+      "D_centroid_target_aligned_shift_A": 7.029568901354018,
+      "target_CA_RMSD_A": 0.477091399848491
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 2.047348571859832,
+      "D_CA_target_aligned_RMSD_A": 12.777695986615765,
+      "D_centroid_target_aligned_shift_A": 10.900977838900666,
+      "target_CA_RMSD_A": 0.49308156948577125
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 2.25453540055668,
+      "D_CA_target_aligned_RMSD_A": 18.107956548685998,
+      "D_centroid_target_aligned_shift_A": 16.229505343544997,
+      "target_CA_RMSD_A": 0.6822220764336817
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.7942240546529863,
+      "D_CA_target_aligned_RMSD_A": 9.450326008094622,
+      "D_centroid_target_aligned_shift_A": 5.76021895821351,
+      "target_CA_RMSD_A": 0.47515121738786587
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110831",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.3948852047285176,
+      "D_CA_target_aligned_RMSD_A": 14.824749928341097,
+      "D_centroid_target_aligned_shift_A": 12.752681103440967,
+      "target_CA_RMSD_A": 0.5442310609805886
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.6008821163720657,
+      "D_CA_target_aligned_RMSD_A": 30.62476330151511,
+      "D_centroid_target_aligned_shift_A": 22.274731046687435,
+      "target_CA_RMSD_A": 0.5757375699527546
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.8592349403911332,
+      "D_CA_target_aligned_RMSD_A": 13.54597466635566,
+      "D_centroid_target_aligned_shift_A": 11.434315436856656,
+      "target_CA_RMSD_A": 0.17622973384532523
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110834",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.9101470709295922,
+      "D_CA_target_aligned_RMSD_A": 19.646696690846888,
+      "D_centroid_target_aligned_shift_A": 16.79616658352102,
+      "target_CA_RMSD_A": 0.21438411422886128
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.0974469838455874,
+      "D_CA_target_aligned_RMSD_A": 3.437818533370034,
+      "D_centroid_target_aligned_shift_A": 1.7579382264947758,
+      "target_CA_RMSD_A": 0.6109548427041431
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.7697065963660648,
+      "D_CA_target_aligned_RMSD_A": 3.5015564235707215,
+      "D_centroid_target_aligned_shift_A": 1.8620146011591208,
+      "target_CA_RMSD_A": 0.6420573963464168
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.7082716694403394,
+      "D_CA_target_aligned_RMSD_A": 2.161298132011605,
+      "D_centroid_target_aligned_shift_A": 1.3129769147499408,
+      "target_CA_RMSD_A": 0.7340901377030936
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.5340591840754996,
+      "D_CA_target_aligned_RMSD_A": 1.6913687580095544,
+      "D_centroid_target_aligned_shift_A": 0.4159175244605862,
+      "target_CA_RMSD_A": 0.28307140019466687
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.9187808682335088,
+      "D_CA_target_aligned_RMSD_A": 2.228550376177595,
+      "D_centroid_target_aligned_shift_A": 1.5822371063091392,
+      "target_CA_RMSD_A": 0.27825004348254945
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.8884771539503529,
+      "D_CA_target_aligned_RMSD_A": 2.2288671698030718,
+      "D_centroid_target_aligned_shift_A": 1.455674020257603,
+      "target_CA_RMSD_A": 0.28074853545573847
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110831",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.4322775619951862,
+      "D_CA_target_aligned_RMSD_A": 21.567705161105415,
+      "target_CA_RMSD_A": 0.6454356512169673
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 2.163516046381016,
+      "D_CA_target_aligned_RMSD_A": 24.949034931202792,
+      "target_CA_RMSD_A": 0.3125200286341684
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.781821411579988,
+      "D_CA_target_aligned_RMSD_A": 19.577222401334495,
+      "target_CA_RMSD_A": 0.2694786123071802
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__mutant_bound__s2026110834",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.7722112768663443,
+      "D_CA_target_aligned_RMSD_A": 20.82079626743949,
+      "target_CA_RMSD_A": 0.2549019311029752
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110832",
+    "reference_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.3626105692525687,
+      "D_CA_target_aligned_RMSD_A": 34.202726930957745,
+      "D_centroid_target_aligned_shift_A": 26.88495593061192,
+      "target_CA_RMSD_A": 0.47043354382355074
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.3321073386877542,
+      "D_CA_target_aligned_RMSD_A": 32.254383058467845,
+      "D_centroid_target_aligned_shift_A": 24.730794419156418,
+      "target_CA_RMSD_A": 0.6855906785283199
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.4781166472370828,
+      "D_CA_target_aligned_RMSD_A": 34.03720783573148,
+      "D_centroid_target_aligned_shift_A": 26.89205016883494,
+      "target_CA_RMSD_A": 0.6772260281107328
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.5593109893852174,
+      "D_CA_target_aligned_RMSD_A": 4.518187825685284,
+      "D_centroid_target_aligned_shift_A": 3.9539941193100856,
+      "target_CA_RMSD_A": 0.4079880640853503
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.448920808967652,
+      "D_CA_target_aligned_RMSD_A": 1.380871835418245,
+      "D_centroid_target_aligned_shift_A": 0.09546928489941926,
+      "target_CA_RMSD_A": 0.38492408452662447
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.5273111719156722,
+      "D_CA_target_aligned_RMSD_A": 4.734471168462255,
+      "D_centroid_target_aligned_shift_A": 4.021711532825182,
+      "target_CA_RMSD_A": 0.41418457990896473
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110831",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.752239909488587,
+      "D_CA_target_aligned_RMSD_A": 17.256892130524466,
+      "D_centroid_target_aligned_shift_A": 7.891933430001013,
+      "target_CA_RMSD_A": 0.3203400817687193
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110831",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.5445944484104372,
+      "D_CA_target_aligned_RMSD_A": 5.336445990517353,
+      "target_CA_RMSD_A": 0.3773423288639438
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110832",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.9757292529738026,
+      "D_CA_target_aligned_RMSD_A": 29.316600081477503,
+      "D_centroid_target_aligned_shift_A": 23.477651626101,
+      "target_CA_RMSD_A": 0.27457094662899906
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 2.2381804225288806,
+      "D_CA_target_aligned_RMSD_A": 35.39956737523158,
+      "target_CA_RMSD_A": 0.4346076173707488
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.6175004061011535,
+      "D_CA_target_aligned_RMSD_A": 26.54353356075961,
+      "D_centroid_target_aligned_shift_A": 20.629464926109122,
+      "target_CA_RMSD_A": 0.4246237081676083
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.5228522843755163,
+      "D_CA_target_aligned_RMSD_A": 32.897030350767515,
+      "target_CA_RMSD_A": 0.7081456403311284
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110834",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.5919723689913963,
+      "D_CA_target_aligned_RMSD_A": 27.73848881300155,
+      "D_centroid_target_aligned_shift_A": 22.25162976231733,
+      "target_CA_RMSD_A": 0.20959128662480164
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__peptide_removed__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__peptide_removed__s2026110834",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.7600259307699353,
+      "D_CA_target_aligned_RMSD_A": 34.69357994178398,
+      "target_CA_RMSD_A": 0.34081426365640427
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.6035315945521784,
+      "D_CA_target_aligned_RMSD_A": 24.00316158654943,
+      "D_centroid_target_aligned_shift_A": 10.916988526602918,
+      "target_CA_RMSD_A": 0.35746301165099464
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.1438306423217546,
+      "D_CA_target_aligned_RMSD_A": 23.75157763202377,
+      "D_centroid_target_aligned_shift_A": 11.254318927824388,
+      "target_CA_RMSD_A": 0.4354145756034788
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.9395215467904031,
+      "D_CA_target_aligned_RMSD_A": 23.596914918755363,
+      "D_centroid_target_aligned_shift_A": 11.096773073686295,
+      "target_CA_RMSD_A": 0.4942103737060043
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.1038890099264964,
+      "D_CA_target_aligned_RMSD_A": 5.758193822351002,
+      "D_centroid_target_aligned_shift_A": 3.076098348791842,
+      "target_CA_RMSD_A": 0.3918469944629915
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.9826390546538143,
+      "D_CA_target_aligned_RMSD_A": 5.27056266306011,
+      "D_centroid_target_aligned_shift_A": 1.6861405001235494,
+      "target_CA_RMSD_A": 0.37946461641676577
+    }
+  },
+  {
+    "comparison": "within-identity seed pair; dependent predictions",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.4704758584169062,
+      "D_CA_target_aligned_RMSD_A": 2.12929295839967,
+      "D_centroid_target_aligned_shift_A": 1.8352156253212843,
+      "target_CA_RMSD_A": 0.37436973565730375
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110831",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 1.149083007904232,
+      "D_CA_target_aligned_RMSD_A": 25.402369385626805,
+      "D_centroid_target_aligned_shift_A": 14.054764232219807,
+      "target_CA_RMSD_A": 0.36504542197194023
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110831",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110831",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.9020168081328137,
+      "D_CA_target_aligned_RMSD_A": 16.108087126609956,
+      "target_CA_RMSD_A": 0.3553357153033087
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.8147107083384509,
+      "D_CA_target_aligned_RMSD_A": 5.598151994715344,
+      "D_centroid_target_aligned_shift_A": 4.907975751023541,
+      "target_CA_RMSD_A": 0.3787273142767757
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110832",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110832",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 2.496200064351296,
+      "D_CA_target_aligned_RMSD_A": 20.308829495223158,
+      "target_CA_RMSD_A": 0.530905718141171
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.34938141539061507,
+      "D_CA_target_aligned_RMSD_A": 8.207033769171897,
+      "D_centroid_target_aligned_shift_A": 7.757807173819543,
+      "target_CA_RMSD_A": 0.361381103828675
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110833",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110833",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.7874316255240404,
+      "D_CA_target_aligned_RMSD_A": 15.707920777817403,
+      "target_CA_RMSD_A": 0.3459532553801323
+    }
+  },
+  {
+    "comparison": "matched same-seed context",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01__candidate__mutant_bound__s2026110834",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.6259064876963973,
+      "D_CA_target_aligned_RMSD_A": 7.999823736615086,
+      "D_centroid_target_aligned_shift_A": 7.382236097505705,
+      "target_CA_RMSD_A": 0.3213749600528216
+    }
+  },
+  {
+    "comparison": "matched parent/child residue-position correspondence",
+    "moving_job": "DAG-PMHC-01__candidate__wildtype_bound__s2026110834",
+    "reference_job": "DAG-PMHC-01-parent__candidate__wildtype_bound__s2026110834",
+    "values": {
+      "D_CA_intrinsic_RMSD_A": 0.42282430880291005,
+      "D_CA_target_aligned_RMSD_A": 21.62119386369084,
+      "target_CA_RMSD_A": 0.45581166129468054
+    }
+  }
+]

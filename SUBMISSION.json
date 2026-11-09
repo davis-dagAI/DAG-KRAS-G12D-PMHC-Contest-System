@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "challenge": "Anthropic x Adaptyv 2026, Challenge 5: KRAS G12D pMHC",
+  "track": 3,
+  "submission_status": "reported_submitted_by_submitter",
+  "status_source": "submitter confirmation on 2026-11-09; no platform submission receipt is included",
+  "submitted_order": [
+    "DAG-PMHC-01",
+    "DAG-PMHC-02",
+    "DAG-PMHC-03"
+  ],
+  "novelty_check": "all three exact sequences observed Passed before submission",
+  "physical_results": "not yet available",
+  "submission_files": {
+    "METHODS.md": {
+      "sha256": "2d69567b1eebe783e1b4214786632880b93c3fc929b1d26404d9b1c10ac4701f",
+      "bytes": 8868
+    },
+    "SUMMARY.md": {
+      "sha256": "b44daa43731b48e4168dbb42acbb3aacb3f306f4f2aad898c603e396c9623636",
+      "bytes": 11418
+    },
+    "CONFIDENCE-METRICS.md": {
+      "sha256": "de5014d82ad5d567d8e6ac9f31e60bb7030d5838ea7756cb9b5f987c2fb3a2ce",
+      "bytes": 2837
+    },
+    "designs.fasta": {
+      "sha256": "4911d0e6819fb7dc222b99bbf1da4980fc4bb329bf9db2a802ca262c52226041",
+      "bytes": 322
+    },
+    "SUPPLEMENT.zip": {
+      "sha256": "5752bc80e89e4ffc30372cbef95e10b531f15b9442bb787cd4d256515c574101",
+      "bytes": 13842488
+    },
+    "supplement/MANIFEST.json": {
+      "sha256": "8fb51965edb987b2d29c8186854e701259109db24694b679d4b0640f6a7d256d",
+      "bytes": 30034
+    }
+  }
+}

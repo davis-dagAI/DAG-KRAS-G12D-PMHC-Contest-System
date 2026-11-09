@@ -1,0 +1,42 @@
+[
+  {
+    "molecule": "DAG-PMHC-01",
+    "submitted": true,
+    "sequence": "VVVQSPSSLVARPGETVKIECRTLDFDATTMFWYRQFPGQERTLMATSNVGSEAQYAPGVDKDKFLINHASLTLSTLTVTSLEPEDTAVYFCSARKSGSTTLGAANTDEFFGAGTRLTVL",
+    "length": 120,
+    "sequence_sha256": "bd8995924b03bd4d87986984bfd73abb56829c4e16be91728ca3eebc9984b953",
+    "relationship": "submitted sequence revision"
+  },
+  {
+    "molecule": "DAG-PMHC-01-parent",
+    "submitted": false,
+    "sequence": "VVVQSPSSLVARPGETVKIECRTLDFQATTMFWYRQFPGQERTLMATSNEGSKATYEQGVDKDKFLINHASLTLSTLTVTSLEPEDTAVYFCSARKSGSTTLGAANTDEFFGAGTRLTVL",
+    "length": 120,
+    "sequence_sha256": "5bc6b2a573b5cf80992d1c4fb051fc08667eab55cb1641f9b2e6ea6f960414b5",
+    "relationship": "computational parent; not a submitted entry"
+  },
+  {
+    "molecule": "DAG-PMHC-02",
+    "submitted": true,
+    "sequence": "PKIPVLSLEELEALLAEFTALAAAGPAAWWAAWAVFNTLFDSMHMSFKAGVLSEEEYEALFAALSAASTAGRAVLAAAAA",
+    "length": 80,
+    "sequence_sha256": "282aac4d7ed89c5773f8f8b9ad7d40169b713c65c6419bcd44d46412563eda01",
+    "relationship": "submitted sequence revision"
+  },
+  {
+    "molecule": "DAG-PMHC-02-parent",
+    "submitted": false,
+    "sequence": "PKIPVLSLAELEALLAEFAALAAAGPAAWWAAWAVFNTLFDSMHMSFKAGVLSEEEYEALFAALSAASTAGRAVLAAAAA",
+    "length": 80,
+    "sequence_sha256": "104e4ab6709e9fffb9e9ec1594fb81c1ada323ca625ed4ff71f41fc05e02a4e9",
+    "relationship": "computational parent; not a submitted entry"
+  },
+  {
+    "molecule": "DAG-PMHC-03",
+    "submitted": true,
+    "sequence": "MEEMLKEVEEVMDEVFIRLYDPANGGPSYDGEEAFGNAAWRAKEAELNGLEIEYMKAKQGKSKLSPEEILERVRAFLASL",
+    "length": 80,
+    "sequence_sha256": "38066600a02046ca7d30b7e8b14f1cefce7595aba546695730d0985a226d5513",
+    "relationship": "fresh generated candidate; no submitted parent comparator"
+  }
+]

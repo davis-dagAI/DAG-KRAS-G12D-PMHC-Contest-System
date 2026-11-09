@@ -1,0 +1,185 @@
+{
+  "molecule": "DAG-PMHC-03",
+  "method": "Adapted public Odin-Multi / ColabDesign with soluble ProteinMPNN guidance",
+  "source_content_sha256": "5ef98657759a4f91c4352b93ebf2784085c7cfb6cd618b9e215e81252fa037fb",
+  "weights_sha256": {
+    "ProteinMPNN/soluble/v_48_020.pkl": "f3f705752e625a173ac5ea4d2b2e46bd10ff13905a73bcc1ca2ecd3420b361e1",
+    "params_model_1_multimer_v3.npz": "611da8fc7478928f68de12e8b226260ef1f4ce62bcc29b008572e52f4f212959",
+    "params_model_2_multimer_v3.npz": "51362b0844382ae0f5720c59b81dd13a43eea40fbf9995dd2573bdab88865378",
+    "params_model_3_multimer_v3.npz": "46d9bcad288edc7ad5a6362ee8e5f84307a69712e00e6c36b1ef9daf96ebc9ce",
+    "params_model_4_multimer_v3.npz": "59bdabd2d69c07fe26b37882d544acbd1b9f89f196828f4220da49e0610b572c",
+    "params_model_5_multimer_v3.npz": "917742be5a105d6b80f13f1f13f20459f27ec3fdcd34ea088b359f4502d6177f"
+  },
+  "base_seed": 2026110811,
+  "trajectory_seed": 958783,
+  "native_parent_sequence_or_backbone": null,
+  "selected_native_structure": null,
+  "sequence_selection": "Last retained native discrete sequence, iteration 139; not a best-score or cofold sequence",
+  "general": {
+    "design_algorithm": "3stage_ste",
+    "ensemble_discrete_stages": false,
+    "greedy_iterations": 15,
+    "greedy_percentage": 5,
+    "hard_iterations": 20,
+    "lengths": [
+      80,
+      80
+    ],
+    "mpnn_use_ligand_context": false,
+    "mpnn_weights": "soluble",
+    "num_recycles_design": 1,
+    "omit_AAs": "C",
+    "optimise_beta": true,
+    "optimise_beta_extra_soft": 0,
+    "optimise_beta_extra_temp": 0,
+    "optimise_beta_recycles_design": 3,
+    "random_helicity": false,
+    "remove_unrelaxed_trajectory": false,
+    "sample_models": true,
+    "save_design_animations": false,
+    "save_design_trajectory_plots": false,
+    "soft_iterations": 75,
+    "temporary_iterations": 45,
+    "use_early_stopping": false,
+    "use_multimer_design": true
+  },
+  "contexts": {
+    "mutant": {
+      "loss": {
+        "role": "target",
+        "gradient_weight": 1.0,
+        "rm_template_seq_design": false,
+        "rm_template_sc_design": false,
+        "weights_plddt": 0.1,
+        "weights_pae_intra": 0.4,
+        "weights_pae_inter": 0.1,
+        "weights_con_intra": 1.0,
+        "weights_con_inter": 1.0,
+        "intra_contact_distance": 14.0,
+        "inter_contact_distance": 20.0,
+        "intra_contact_number": 2,
+        "inter_contact_number": 2,
+        "intra_contact_num_pos": 1000,
+        "inter_contact_num_pos": 1000,
+        "weights_helicity": -0.3,
+        "use_i_ptm_loss": true,
+        "weights_iptm": 0.05,
+        "use_ptm_energy_craft_loss": false,
+        "weights_ptm_energy_craft": 0.0,
+        "weights_rg": 0.3,
+        "use_rg_loss": true,
+        "weights_termini_loss": 0.1,
+        "use_termini_distance_loss": false,
+        "mpnn_backprop_num_samples": 16,
+        "weights_mpnn_structure_confidence": 0.0,
+        "weights_mpnn_sequence_kl": 0.0,
+        "weights_mpnn_autoregressive_ce": 1.0,
+        "mpnn_interface_only": false
+      },
+      "target": {
+        "binder_name": "mutant",
+        "chains": "A,B,C",
+        "starting_pdb": "design/DAG-PMHC-03-mutant-target.pdb",
+        "target_hotspot_residues": "C5,C6,C7"
+      }
+    },
+    "wt": {
+      "loss": {
+        "role": "offtarget",
+        "gradient_weight": 0.3,
+        "rm_template_seq_design": false,
+        "rm_template_sc_design": false,
+        "weights_plddt": 0,
+        "weights_pae_intra": 0,
+        "weights_pae_inter": -0.1,
+        "weights_con_intra": 0,
+        "weights_con_inter": -1.0,
+        "intra_contact_distance": 14.0,
+        "inter_contact_distance": 20.0,
+        "intra_contact_number": 2,
+        "inter_contact_number": 2,
+        "weights_contact_max": 0.0,
+        "weights_helicity": 0,
+        "use_i_ptm_loss": true,
+        "weights_iptm": -0.05,
+        "use_ptm_energy_craft_loss": false,
+        "weights_ptm_energy_craft": 0,
+        "clip": {
+          "i_pae": {
+            "below": 0.35
+          },
+          "i_con": {
+            "below": 3.5
+          },
+          "i_ptm": {
+            "above": 0.3
+          }
+        },
+        "weights_rg": 0,
+        "use_rg_loss": false,
+        "weights_termini_loss": 0,
+        "use_termini_distance_loss": false,
+        "mpnn_backprop_num_samples": 16,
+        "weights_mpnn_structure_confidence": 0.0,
+        "weights_mpnn_sequence_kl": 0.0,
+        "weights_mpnn_autoregressive_ce": -1.0,
+        "mpnn_interface_only": true
+      },
+      "target": {
+        "binder_name": "wt",
+        "chains": "A,B,C",
+        "starting_pdb": "design/DAG-PMHC-03-wt-target.pdb",
+        "target_hotspot_residues": "C5,C6,C7"
+      }
+    },
+    "peptide_free": {
+      "loss": {
+        "role": "offtarget",
+        "gradient_weight": 0.01,
+        "rm_template_seq_design": false,
+        "rm_template_sc_design": false,
+        "weights_plddt": 0,
+        "weights_pae_intra": 0,
+        "weights_pae_inter": -0.1,
+        "weights_con_intra": 0,
+        "weights_con_inter": -1.0,
+        "intra_contact_distance": 14.0,
+        "inter_contact_distance": 20.0,
+        "intra_contact_number": 2,
+        "inter_contact_number": 2,
+        "weights_contact_max": 0.0,
+        "weights_helicity": 0,
+        "use_i_ptm_loss": true,
+        "weights_iptm": -0.05,
+        "use_ptm_energy_craft_loss": false,
+        "weights_ptm_energy_craft": 0,
+        "clip": {
+          "i_pae": {
+            "below": 0.35
+          },
+          "i_con": {
+            "below": 3.5
+          },
+          "i_ptm": {
+            "above": 0.3
+          }
+        },
+        "weights_rg": 0,
+        "use_rg_loss": false,
+        "weights_termini_loss": 0,
+        "use_termini_distance_loss": false,
+        "mpnn_backprop_num_samples": 16,
+        "weights_mpnn_structure_confidence": 0.0,
+        "weights_mpnn_sequence_kl": 0.0,
+        "weights_mpnn_autoregressive_ce": -1.0,
+        "mpnn_interface_only": true
+      },
+      "target": {
+        "binder_name": "peptide_free",
+        "chains": "A,B",
+        "starting_pdb": "design/DAG-PMHC-03-peptide_free-target.pdb",
+        "target_hotspot_residues": null
+      }
+    }
+  }
+}
